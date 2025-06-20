@@ -1,0 +1,6 @@
+{
+  "name": "AI App Maker v1",
+  "description": "Generates React + Tailwind CSS application code from user descriptions using AI. The generated code is a single component structure, suitable as a starting point for a GitHub project.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
